@@ -1,0 +1,93 @@
+.logonext{
+    padding-right: 130px;
+}
+.logo img{
+    width:400px;
+    height: 80px;
+    padding-top: 10px;
+    padding-left: 20px;
+}
+
+nav{
+    background-color: #333;
+}
+
+.ab{
+   padding-bottom: 10px;
+   padding-top: 5px;
+    margin: 5px;
+}
+a{
+    font-size: xx-large;
+    padding-bottom: 20%;
+    font-family: 'Yatra One', cursive;
+    text-decoration: none;
+    padding: 1px;
+    color: whitesmoke;
+}
+a:hover{
+    border-radius: 5%;
+    color: whitesmoke;
+    padding: 0%;
+    background-color: orange;
+}
+.material-symbols-outlined {
+    padding-right: 5px;
+    size: 100px;
+  font-variation-settings:
+  'FILL' 0,
+  'wght' 400,
+  'GRAD' 200,
+  'opsz' 48
+}
+.logonext,.logo{
+    pointer-events: none;
+}
+header
+{
+    padding-bottom: 10px;
+    
+    margin-top: 20px;
+    margin-bottom: 20px;
+    background-color: #333;
+}
+.line{
+    font-size: x-large;
+    padding-top: 3%;
+    font-family: 'Yatra One', cursive;
+    color: red;
+}
+.lines{
+    font-size: x-large;
+    font-family: 'Yatra One', cursive;
+}
+.hea{
+    color: #666;
+    font-family: 'Yatra One', cursive;
+    font-size: xx-large;
+    align-content: center;
+    margin-left: 25%;
+    margin-right: 25%;
+    margin-top: 3%;
+    background-color: white;
+    border-color: black;
+}
+.hea span{
+    color: black;
+    font-family: 'Yatra One', cursive;
+    font-size: xx-large;
+    
+}
+.abc{
+    background-color: white;
+}
+footer{
+    background-color: #333;
+}
+ footer h1{
+    color: white;
+ }
+
+ footer h3{
+    color: white;
+ }
